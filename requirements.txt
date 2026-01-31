@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-numpy
 gunicorn
+numpy
+scipy
+pywavelets
